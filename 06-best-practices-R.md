@@ -7,7 +7,9 @@ minutes: 30
 
 
 
-# Some best practices for using R and designing programs
+> ## Objectives {.objectives}
+>
+> FIXME: Write these
 
 1. Start your code with a description of what it is:
 
@@ -78,7 +80,7 @@ dat <- read.csv(file = "/Users/Karthik/Documents/sannic-project/files/dataset-20
 
 13. Develop your code using version control and frequent updates!
 
-> ## Challenges {.challenge}
+> ## Discussion - Best practice {.challenge}
 >
 > 1. What other suggestions do you have?
 > 2. How could we restructure the code we worked on today, to make it easier to read? Discsuss with your neighbor.

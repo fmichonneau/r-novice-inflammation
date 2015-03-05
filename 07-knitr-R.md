@@ -7,9 +7,9 @@ minutes: 30
 
 
 
-# Taking notes and creating reports:
-
-## Introducing Knitr
+> ## Objectives {.objectives}
+>
+> FIXME: Write these
 
 `Knitr` is an R package that makes your code neat, pretty, and shows your notes, code, and output simultaneously in an `html` document. You create these documents in `.Rmd` files. You can write in `LateX` or `md`. 
 
@@ -47,7 +47,7 @@ summary(cars)
 
 ~~~
 
-> ## Challenge {.challenge}
+> ## Challenge - Using KnitR to produce a report {.challenge}
 >
 > 1. Open an new .Rmd script and save it as inflammation_report.Rmd
 > 2. Copy and paste the code as embedded R chunks to read in the data and plot average inflammation, or the heat map that we created.
